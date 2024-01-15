@@ -1,5 +1,5 @@
 # Spendsy-Internship
-# This repository records the features I developeed in Spendsy Limited.
+# This repository records the features I developed in Spendsy Limited.
 
 
 # Demos
