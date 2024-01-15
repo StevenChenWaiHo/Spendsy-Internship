@@ -29,3 +29,6 @@
 | Location Details  | Map Page         |
 |-------------------|------------------|
 | ![Spendsy Mobile Address Details](https://github.com/StevenChenWaiHo/Spendsy-Internship/assets/122108964/8a614d7b-e1d3-4962-adaa-aaa82d71d03c) |  ![Spendsy Mobile Map Page](https://github.com/StevenChenWaiHo/Spendsy-Internship/assets/122108964/384adc4f-d255-4541-89b4-146f233c3396) 
+
+## Employee Platform APIs (Code is private)
+1. Integrated Auth0, Stripe and GetStream to develop REST APIs for account management using a serverless framework with AWS (DynamoDB, Lambda, S3 and CloudWatch), and documented the development using Confluence.
