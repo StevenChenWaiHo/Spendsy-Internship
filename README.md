@@ -5,7 +5,7 @@
 # Demos
 ## Employee Platform APIs (Code is private)
 1. Integrated Auth0, Stripe and GetStream to develop REST APIs for account management using a serverless framework with AWS (DynamoDB, Lambda, S3 and CloudWatch), and documented the development using Confluence.
-2. 
+
 ## Web Platform (React)
 1. Add responsive logic and data validation in existing UI/UX
 2. Link the UI to the back-end services such as AWS DynamoDB
